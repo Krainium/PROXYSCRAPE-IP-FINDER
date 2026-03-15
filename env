@@ -1,0 +1,4 @@
+proxy_host = 'rp.proxyscrape.com'
+proxy_port = 6060
+base_username = ''
+password = ''
