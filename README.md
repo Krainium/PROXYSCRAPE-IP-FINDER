@@ -2,8 +2,6 @@
 
 A Python CLI tool that rotates through ProxyScrape proxy sessions to find an IP address matching a target prefix. Uses multi-threaded requests to cycle through session lifetimes rapidly, checking each resulting IP until a match is found.
 
-Created by **Krainium**.
-
 ---
 
 ## Features
